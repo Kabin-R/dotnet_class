@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\Detnet\First\bin\Debug\First.exe.config
+C:\Users\Dell\Desktop\Detnet\First\bin\Debug\First.exe
+C:\Users\Dell\Desktop\Detnet\First\bin\Debug\First.pdb
+C:\Users\Dell\Desktop\Detnet\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Detnet\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\Detnet\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Detnet\First\obj\Debug\First.exe
+C:\Users\Dell\Desktop\Detnet\First\obj\Debug\First.pdb
